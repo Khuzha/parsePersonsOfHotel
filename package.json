@@ -1,0 +1,16 @@
+{
+  "name": "etaj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readXSLX.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "read-excel-file": "^4.0.6"
+  }
+}
