@@ -22,7 +22,6 @@ const parseTable = async (table) => {
 		}
 		
 		// создаем папки людей в папках:
-
 		for (const person of persons) {
 			console.log(person)
 			const room = person[0].toString()
