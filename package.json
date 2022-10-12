@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "fs": "0.0.1-security",
-    "read-excel-file": "^4.0.6"
+    "read-excel-file": "^5.5.1"
   }
 }
